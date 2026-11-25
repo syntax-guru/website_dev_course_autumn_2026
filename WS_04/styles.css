@@ -9,3 +9,16 @@
     padding: 20px;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
